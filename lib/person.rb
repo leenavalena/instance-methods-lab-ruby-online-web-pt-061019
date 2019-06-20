@@ -6,4 +6,5 @@ class Person
   
   def walk
     puts "The personis walking"
+  end
 end
